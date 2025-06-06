@@ -1,0 +1,15 @@
+[project]
+name = "testtasks"
+version = "0.1.0"
+description = "Test tasks for python developer interview"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "httpx>=0.28.1",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.0",
+    "pkg>=0.2",
+    "pymorphy2>=0.9.1",
+    "scikit-learn>=1.6.1",
+    "tabulate>=0.9.0",
+]
